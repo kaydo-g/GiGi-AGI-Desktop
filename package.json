@@ -1,10 +1,10 @@
 {
-  "name": "chatgpt-desktop",
-  "version": "1.0.0",
+  "name": "GiGi-desktop",
+  "version": "1.1.0",
   "description": "A minimal Electron application",
   "main": "main.js",
   "build": {
-    "appId": "com.electron.chatgpt-desktop",
+    "appId": "com.electron.GiGi-Desktop",
     "mac": {
       "category": "your.app.category.type"
     }
